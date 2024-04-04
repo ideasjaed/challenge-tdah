@@ -1,0 +1,19 @@
+{
+  "name": "challenge-tdah",
+  "version": "1.0.0",
+  "description": "Challengs by learning logic programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideasjaed/challenge-tdah.git"
+  },
+  "author": "jaz-edgar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ideasjaed/challenge-tdah/issues"
+  },
+  "homepage": "https://github.com/ideasjaed/challenge-tdah#readme"
+}
